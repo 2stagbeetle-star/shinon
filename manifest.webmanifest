@@ -1,0 +1,42 @@
+{
+ "name": "心音 SHIN-ON",
+ "short_name": "心音",
+ "description": "息をひそめろ。心臓の音は、聞かれている。閉校した中学校に閉じ込められた新人警察官・真壁悠。見えない殺人鬼から、心拍だけを頼りに隠れ、逃げる。スマホを横にして遊ぶ、無料のホラーアドベンチャー。",
+ "lang": "ja",
+ "dir": "ltr",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "display_override": [
+  "fullscreen",
+  "standalone"
+ ],
+ "orientation": "landscape",
+ "background_color": "#000000",
+ "theme_color": "#0b0d0e",
+ "categories": [
+  "games",
+  "entertainment"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
